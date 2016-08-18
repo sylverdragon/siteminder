@@ -1,3 +1,5 @@
+# Siteminder - Simple python script for monitoring a web site.  Siteminder will monitor the specified site and send SMS alerts when 
+# 		the site becomes unresponsive. 
 import argparse
 import requests
 import time
